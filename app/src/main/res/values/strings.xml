@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">一个假的APP</string>
+    <string name="title_activity_login">一个假的APP</string>
+    <string name="name" >文字转表情包我婷定制版</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">其实这是真的APP，不过要密码才能用</string>
+    <string name="action_sign_in">进入真的APP</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">密码不对哦，略略略</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
